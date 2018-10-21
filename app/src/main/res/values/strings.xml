@@ -1,0 +1,31 @@
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">quizApp</string>
+    <string name="geographyQuiz">Geography quiz</string>
+    <string name="submit">Submit</string>
+    <string name="reset">reset</string>
+    <string name="clear">Clear</string>
+    <string name="summary">Your points <xliff:g id="score" example="1">%d</xliff:g> out of <xliff:g id="max_score" example="4">%d</xliff:g>! Pres CLEAR to start again.</string>
+    <string name="q1">1.Which of the following is not a micronation?</string>
+    <string name="q1a1" translatable="false">San Marino</string>
+    <string name="q1a2" translatable="false">Sealand</string>
+    <string name="q1a3" translatable="false">Minerva Reefs</string>
+
+    <string name="q2">2.Which is the deepest lake in the world?</string>
+    <string name="q2a1" translatable="false">Ladoga</string>
+    <string name="q2a2" translatable="false">Baikal</string>
+    <string name="q2a3" translatable="false">Michigan</string>
+
+
+    <string name="q3">3.What is the capital of Liechtenstein?</string>
+    <string name="q3text">Vaduc</string>
+    <string name="City">City</string>
+
+    <string name="q4">4.Which is the biggest island?</string>
+    <string name="q4a1">Madagaskar</string>
+    <string name="q4a2">Australia</string>
+    <string name="q4a3">Greenland</string>
+
+
+
+
+</resources>
